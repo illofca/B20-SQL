@@ -4,7 +4,7 @@
 -- * is wildcard, means all the columns
 --SQL Query END WITH semicolumn
 --Each query will run independently
---Last commit
+--Last commit-
 SELECT
     *
 FROM
